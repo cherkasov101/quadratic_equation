@@ -1,15 +1,5 @@
 #include "quadratic_equation.h"
 
-// int main() {
-//   quadratic_equation_result result;
-//   result = solve_equation(1, 2, 1);
-//   printf("Number of roots: %d\n", result.num_roots);
-//   printf("Root 1: %f\n", result.root_1);
-//   printf("Root 2: %f\n", result.root_2);
-//   printf("Count roots: %d\n", result.num_roots);
-//   return 0;
-// }
-
 /**
  * Solves the quadratic equation ax^2 + bx + c = 0
  * @param a
